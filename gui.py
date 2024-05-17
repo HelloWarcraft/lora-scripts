@@ -39,7 +39,7 @@ def run_tag_editor():
     ]
     if args.localization:
         cmd.extend(["--localization", args.localization])
-    elif locale.getdefaultlocale()[0].startswith("zh"):
+    else:
         cmd.extend(["--localization", "zh-Hans"])
     subprocess.Popen(cmd)
 

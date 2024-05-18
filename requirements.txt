@@ -37,7 +37,7 @@ lycoris-lora==2.1.0.post3
 dadaptation==3.1
 # add for new
 cubinlinker
-cupy-cuda11x==12.0.0
+# cupy-cuda11x==12.0.0
 ptxcompiler
 keras-core
 wurlitzer
@@ -45,7 +45,7 @@ opencv-python==4.9.0
 dill==0.3.1.1
 pyarrow==3.0.0
 jupyterlab==3.6.0
-cuda-python==11.7.1
+# cuda-python==11.7.1
 protobuf==4.22.0
 dask==2023.7.1
 google-api-core==1.22.2

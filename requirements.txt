@@ -57,3 +57,4 @@ packaging==22.0
 shapely==2.0.1
 keras==2.15.0
 pydantic==2.21
+xformers==0.0.22
